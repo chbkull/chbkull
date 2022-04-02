@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **PyTorch for deep learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
+- 👨‍💻 All of my projects are available [right here on GitHub!](https://github.com/chbkull)
 
 - 💬 Ask me about **how much tea I have**
 
-- 📫 How to reach me **chbkull@gmail.com**
+- 📫 How to reach me: **chbkull@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/christopherkull/](https://www.linkedin.com/in/christopherkull/)
+- 📄 My full resume can be found here: [https://www.linkedin.com/in/christopherkull/](https://www.linkedin.com/in/christopherkull/)
 
 - ⚡ Fun fact **my last name is pronounced "cool"**
 
