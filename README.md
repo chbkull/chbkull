@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christopher Kull</h1>
-<h3 align="center">A CS student studying at UIUC</h3>
+<h3 align="center">A CS graduate student studying at UIUC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chbkull&label=Profile%20views&color=0e75b6&style=flat" alt="chbkull" /> </p>
 
-- 🌱 I’m currently learning **PyTorch for deep learning**
+- 🌱 I’m currently figuring out how to naviagte through grad school
 
 - 👨‍💻 All of my projects are available [right here on GitHub!](https://github.com/chbkull)
 
