@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chbkull&label=Profile%20views&color=0e75b6&style=flat" alt="chbkull" /> </p>
 
-- 🌱 I’m currently figuring out how to naviagte through grad school
+- 🌱 I’m currently figuring out how to navigate grad school
 
 - 👨‍💻 All of my projects are available [right here on GitHub!](https://github.com/chbkull)
 
